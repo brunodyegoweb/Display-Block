@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.example {
+    color: #000;
+    text-align: center;
+}
+
+.example-item {
+    display:block;
+    width: 33.3333%;
+    height: 150px;
+}
+
+.example-item_first {
+    background-color: #0000ff;
+}
+
+
+.example-item_second {
+    background-color: #7fff00;
+    margin-left: auto;
+}
+
+
+.example-item_third {
+    background-color: #6495ed;
+    margin-left: auto;
+    margin-right: auto;
+}
